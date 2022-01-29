@@ -2,7 +2,7 @@
 
 VIDA CP || Venta De Cp, Zoofilia y Gore
                                                      
-                                                                   - By: Kinsuryo#187 & Gaspimienta#8252 & shehhgg#8799
+                                                                   - By: Kinsuryo#1874 & Gaspimienta#8252 & shehhgg#8799
 
 
 
