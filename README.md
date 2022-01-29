@@ -16,6 +16,6 @@ VIDA CP || Venta De Cp, Zoofilia y Gore
  
  # INSTAlAR
 Instalación y descarga de La Pagina Web
-<pre><i><n>git clone 
+<pre><i><n>git clone https://github.com/kinsuryo/k6m3fagp4w4wspmdt23fldnwrmknse74gmxosswvaxf3ciasficpenad
 sudo python install
 </pre></i></n>
