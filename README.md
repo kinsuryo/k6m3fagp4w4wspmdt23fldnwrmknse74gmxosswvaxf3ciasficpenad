@@ -1,20 +1,21 @@
-# 732256237056872323560
+# VIDA CP
 
-ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP ZAR CORP 
+VIDA CP || Venta De Cp, Zoofilia y Gore
                                                      
-                                                                                     - By: Kinsuryo#1874                                                                                                           
+                                                                   - By: Kinsuryo#187 & Gaspimienta#8252 & shehhgg#8799
 
- - | Zar Corp | - Estamos Abiertos A Responder Cualquier Pregunta/Duda Que tengas.
- - | Zar Corp | - Puedes Contactar Con Kinsuryo#1874 En Discord Para Reportar Un Servidor. 
- - | Zar Corp | - El Objetivo De Zar Corp Es Terminar con los servidores De NSFW, Zoofilia, Cp, NEcrofilia, Gore, Pedofilia, Etc.
- - | Zar Corp | - Zar Corp Es Un Team AntiRaider.
- - | Zar Corp | - Zar Corp NO Es Un Team Raider.
- - | Zar Corp | - Realizamos Ataques DDoS A Paginas Web (Paginas Web Relacionadas Con Nuestro Objetivo).
+
+
+ - | Vida CP | Vendemos Child Porn
+ - | Vida CP | Vendemos Gore
+ - | Vida CP | Vemdemos Zoofilia
+ - | Vida CP | Vemdemos Servicios De DDoS
+ - | Vida CP | Vendemos Servicios De Doxeo
  
- <img src="https://cdn.discordapp.com/attachments/783493222143623178/929464304040816730/Shot040.png" title="Pagina Web">
+ <img src="https://cdn.discordapp.com/attachments/936481297025617930/936787952300879913/Vida_CP.png" title="Pagina Web">
  
  # INSTAlAR
 Instalación y descarga de La Pagina Web
-<pre><i><n>git clone https://github.com/kinsuryo/732256237056872323560.git
+<pre><i><n>git clone 
 sudo python install
 </pre></i></n>
